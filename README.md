@@ -143,6 +143,8 @@ All wave parameters can be customised by passing the corresponding arguments to 
 ## Example output
 
 Below is a 10‑second synthetic ECG (HR = 75 bpm, α_R = 1.8, α_P = 0.7, α_T = 0.9). Red dashed lines mark the true R‑peak positions.
+![Example ECG](sinth1.png)
+[Download example WAV](inverse_fractional_ecg.wav)
 
 ---
 
